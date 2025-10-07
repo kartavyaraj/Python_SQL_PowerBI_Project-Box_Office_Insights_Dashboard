@@ -387,7 +387,7 @@ The Box Office Insights Dashboard provides interactive insights into global movi
 
 ## Key Insights
 
-From the year **2000 to 2024**, the global box office industry witnessed the release of **4,995 movies**, generating a staggering **$594 billion** in worldwide revenue. The domestic market dominated the share with **64.3%**, while the foreign market contributed **36.0%**, accompanied by an average movie rating of **6.52**.
+From the year **2000 to 2024**, the global box office industry witnessed the release of **4,955 movies**, generating a staggering **$594 billion** in worldwide revenue. The domestic market dominated the share with **64.3%**, while the foreign market contributed **36.0%**, accompanied by an average movie rating of **6.52**.
 
 - ***Global Box Office Highlights***
 
@@ -428,6 +428,7 @@ From the year **2000 to 2024**, the global box office industry witnessed the rel
         - Good: $129M
         - Average: $75M
         - Poor: $40M.
+          
     This clearly highlights how quality and audience approval directly influence financial success.
 
     - However, its seen — some **low-rated movies** such as **The Last Airbender (4.6 rating, \$319M)** and **The Fighter (2.0 rating, \$129M)** still **performed well financially**, whereas **top-rated films** like **Attack on Titan The Last Attack** and **Break the Silence: The Movie** failed to cross even **$10M** in revenue, proving that **critical acclaim doesn’t always guarantee commercial success**.
