@@ -75,7 +75,7 @@ This dataset combines raw data and derived columns such as Rating_Category and V
 
 The data exploration and analysis process was carried out in multiple steps to ensure accuracy and extract actionable insights from the global box-office dataset.
 
-1. **Data Cleaning** : The dataset was cleaned and preprocessed using Python (Pandas) to ensure accuracy and reliability. Key steps included:
+1. **Data Cleaning** : The dataset was cleaned and preprocessed using Python (Pandas) in Jupyter Notebook to ensure accuracy and reliability. Key steps included:
     - Checked data description and summary to understand structure and quality.
     - Trimmed extra spaces in _Movie_ and _Genres_ columns.
     - Handled missing values and removed duplicate rows.
@@ -470,7 +470,7 @@ From the year **2000 to 2024**, the global box office industry witnessed the rel
 
 ## Tools & Skills Used
 
-- **Data Cleaning**: Python (Pandas)
+- **Data Cleaning**: Python (Pandas, Jupyter Notebook)
 - **Data Analysis**: SQL
 - **Database & Querying**: PostgreSQL (pgAdmin)
 - **Data Visualization & Modeling**: PowerBI, DAX
