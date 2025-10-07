@@ -35,7 +35,7 @@ Highlights:
 - **Insights Delivered**: Provides actionable insights for understanding global movie performance and supporting strategic decisions.
 
 ## Screenshot
-![Dashboard Demo](<Dashboard Demonstration\Dashboard.jpg>)
+![Dashboard Demo](Dashboard%20Demonstration/Dashboard.jpg)
 
 
 ## Project Description
