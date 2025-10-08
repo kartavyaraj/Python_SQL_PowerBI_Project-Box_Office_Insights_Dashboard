@@ -1,4 +1,4 @@
-# Box Office Insights & Dashboard Project
+# Box Office Data Analysis & Insights Dashboard
 
 _An interactive Power BI dashboard analyzing global box-office trends from 2000 to 2024. Built using Python, SQL, and Power BI to uncover revenue patterns, ratings insights, and market dynamics._
 
@@ -489,7 +489,7 @@ From the year **2000 to 2024**, the global box office industry witnessed the rel
 
 ## Conclusion
 
-This **Box Office Insights Dashboard** project demonstrates my proficiency in data cleaning using Python (Pandas), SQL-based analysis, and interactive visualization using Power BI. It showcases my ability to:
+This **Box Office Data Analysis & Insights Dashboard** project demonstrates my proficiency in data cleaning using Python (Pandas), SQL-based analysis, and interactive visualization using Power BI. It showcases my ability to:
 
 1. Preprocess, clean, and transform large box-office datasets using Python (Pandas) — handling missing values, removing duplicates, and creating calculated columns for accurate analysis.
 
