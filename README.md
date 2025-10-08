@@ -519,4 +519,4 @@ For any questions or further information, please contact me.
 
 ---
 
-[🔼 Back to Top](#box-office-insights--dashboard-project)
+[🔼 Back to Top](#box-office-data-analysis--insights-dashboard)
