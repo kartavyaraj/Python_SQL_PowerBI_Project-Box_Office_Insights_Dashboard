@@ -1,4 +1,4 @@
-# Box Office Data Analysis & Insights Dashboard
+# Box Office Revenue Intelligence Dashboard
 
 _An interactive Power BI dashboard analyzing global box-office trends from 2000 to 2024. Built using Python, SQL, and Power BI to uncover revenue patterns, ratings insights, and market dynamics._
 
@@ -40,7 +40,7 @@ Highlights:
 
 ## Project Description
 
-__Box Office Insights__ is an interactive Power BI dashboard providing actionable insights into global movie performance from 2000 to 2024. Data was cleaned and preprocessed using Python pandas and analyzed with SQL to extract trends such as top-grossing movies, yearly revenue patterns, and genre-wise performance. An interactive dashboard with DAX-based KPIs was created to visualize revenue, ratings, and market share. This project showcases skills in data cleaning, analysis, visualization, and deriving meaningful insights for stakeholders and analysts.
+__Box Office Revenue Intelligence Dashboard__ is an interactive Power BI dashboard providing actionable insights into global movie performance from 2000 to 2024. Data was cleaned and preprocessed using Python pandas and analyzed with SQL to extract trends such as top-grossing movies, yearly revenue patterns, and genre-wise performance. An interactive dashboard with DAX-based KPIs was created to visualize revenue, ratings, and market share. This project showcases skills in data cleaning, analysis, visualization, and deriving meaningful insights for stakeholders and analysts.
 
 
 ## Project Objective
@@ -489,7 +489,7 @@ From the year **2000 to 2024**, the global box office industry witnessed the rel
 
 ## Conclusion
 
-This **Box Office Data Analysis & Insights Dashboard** project demonstrates my proficiency in data cleaning using Python (Pandas), SQL-based analysis, and interactive visualization using Power BI. It showcases my ability to:
+This **Box Office Revenue Intelligence Dashboard** project demonstrates my proficiency in data cleaning using Python (Pandas), SQL-based analysis, and interactive visualization using Power BI. It showcases my ability to:
 
 1. Preprocess, clean, and transform large box-office datasets using Python (Pandas) — handling missing values, removing duplicates, and creating calculated columns for accurate analysis.
 
@@ -518,4 +518,4 @@ For any questions or further information, please contact me.
 
 ---
 
-[🔼 Back to Top](#box-office-data-analysis--insights-dashboard)
+[🔼 Back to Top](#box-office-revenue-intelligence-dashboard)
